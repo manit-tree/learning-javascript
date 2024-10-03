@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## Simulate delay using async await
+
+![image](https://github.com/user-attachments/assets/62c5b1be-f6af-452e-b27b-c8120be80892)
+
 ## Singleton Pattern
 
 ![image](https://github.com/user-attachments/assets/2fce1382-e4a0-41f0-a3d8-13d9c65985e1)
