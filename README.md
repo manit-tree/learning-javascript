@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## globalThis
+
+![image](https://github.com/user-attachments/assets/fa9ee862-ba58-41e4-892d-84520faddd64)
+
 ## Nullish Coalescing
 
 ![image](https://github.com/user-attachments/assets/576a39cc-7841-47a9-8627-ebbfd4ecd985)
