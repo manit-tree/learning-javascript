@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## matchAll
+
+![image](https://github.com/user-attachments/assets/5f84015e-df73-4c8e-8889-73231218609d)
+
 ## globalThis
 
 ![image](https://github.com/user-attachments/assets/fa9ee862-ba58-41e4-892d-84520faddd64)
