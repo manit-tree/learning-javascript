@@ -2,6 +2,14 @@
 
 Collection of JavaScript codes and snippets
 
+## array.splice()
+
+![image](https://github.com/user-attachments/assets/c2f1219e-d510-48b2-909f-70d45f73d7fa)
+
+## array.slice()
+
+![image](https://github.com/user-attachments/assets/81389d53-10d3-4fa4-9563-a3e4aef0e7c6)
+
 ## Simulate delay using async await
 
 ![image](https://github.com/user-attachments/assets/62c5b1be-f6af-452e-b27b-c8120be80892)
