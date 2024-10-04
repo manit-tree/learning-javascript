@@ -2,6 +2,14 @@
 
 Collection of JavaScript codes and snippets
 
+## Nullish Coalescing
+
+![image](https://github.com/user-attachments/assets/576a39cc-7841-47a9-8627-ebbfd4ecd985)
+
+## Optional Chaining
+
+![image](https://github.com/user-attachments/assets/3084e611-ce96-4290-94bc-7b8083c50f29)
+
 ## array.splice()
 
 ![image](https://github.com/user-attachments/assets/c2f1219e-d510-48b2-909f-70d45f73d7fa)
