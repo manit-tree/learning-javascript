@@ -2,6 +2,14 @@
 
 Collection of JavaScript codes and snippets
 
+## Base64 Decode
+
+![image](https://github.com/user-attachments/assets/35e585de-4853-45c1-9031-2ef145186220)
+
+## Base64 Encode
+
+![image](https://github.com/user-attachments/assets/766fd11d-134c-4a20-8223-186b38aca385)
+
 ## Object.keys()
 
 ![image](https://github.com/user-attachments/assets/1c398faa-24d9-45ae-a501-c4591896f52b)
