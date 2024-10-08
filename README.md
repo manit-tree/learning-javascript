@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## IIFE
+
+![image](https://github.com/user-attachments/assets/18ae728a-aba5-4293-94d9-73737c5569d3)
+
 ## set Private in Class, using hash
 
 ![image](https://github.com/user-attachments/assets/2db3a57a-3010-4f65-9528-a8ffab4a17fd)
