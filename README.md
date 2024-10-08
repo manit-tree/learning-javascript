@@ -2,6 +2,14 @@
 
 Collection of JavaScript codes and snippets
 
+## Listening for messages in Service Worker
+
+![image](https://github.com/user-attachments/assets/9c762903-a34c-4e66-8a9e-a7f470d58975)
+
+## Post message to Service Worker
+
+![image](https://github.com/user-attachments/assets/458bb6eb-d242-4a41-bfea-f2e2d3f37daa)
+
 ## IIFE
 
 ![image](https://github.com/user-attachments/assets/18ae728a-aba5-4293-94d9-73737c5569d3)
