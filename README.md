@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## Closure
+
+![image](https://github.com/user-attachments/assets/ca8293e0-a49e-4a78-8115-cf2e7beee188)
+
 ## Base64 Decode
 
 ![image](https://github.com/user-attachments/assets/35e585de-4853-45c1-9031-2ef145186220)
