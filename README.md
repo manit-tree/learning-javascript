@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## set Private in Class, using hash
+
+![image](https://github.com/user-attachments/assets/2db3a57a-3010-4f65-9528-a8ffab4a17fd)
+
 ## Closure
 
 ![image](https://github.com/user-attachments/assets/ca8293e0-a49e-4a78-8115-cf2e7beee188)
