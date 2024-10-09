@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## Generate hashing using Crypto API
+
+![image](https://github.com/user-attachments/assets/4a22ee4c-b482-4e8e-bc7d-6c392a195d2f)
+
 ## Listening for messages in Service Worker
 
 ![image](https://github.com/user-attachments/assets/9c762903-a34c-4e66-8a9e-a7f470d58975)
