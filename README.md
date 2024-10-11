@@ -4,7 +4,7 @@ Collection of JavaScript codes and snippets
 
 ## Using dynamic import
 
-![image](https://github.com/user-attachments/assets/c7329cfe-d582-41dc-9659-77dde8481735)
+![image](https://github.com/user-attachments/assets/644c7fb2-cce1-4d22-90a4-d46a8c2a1d02)
 
 ## Generate hashing using Crypto API
 
