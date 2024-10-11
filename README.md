@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## Using dynamic import
+
+![image](https://github.com/user-attachments/assets/c7329cfe-d582-41dc-9659-77dde8481735)
+
 ## Generate hashing using Crypto API
 
 ![image](https://github.com/user-attachments/assets/4a22ee4c-b482-4e8e-bc7d-6c392a195d2f)
