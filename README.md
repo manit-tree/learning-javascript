@@ -2,6 +2,10 @@
 
 Collection of JavaScript codes and snippets
 
+## Proxy Object
+
+![image](https://github.com/user-attachments/assets/55f50194-f073-4b5b-9615-56249ed6974a)
+
 ## Using dynamic import
 
 ![image](https://github.com/user-attachments/assets/644c7fb2-cce1-4d22-90a4-d46a8c2a1d02)
